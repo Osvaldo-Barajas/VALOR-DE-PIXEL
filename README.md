@@ -59,7 +59,9 @@ Metodología
 Como primer paso se debe convertir las coor-denadas geográficas a coordenadas UTM con la ayuda de un 
 software o una página de inter-net.
  
+![PalabrasdelTextoAlternativo](https://github.com/Osvaldo-Barajas/VALOR-DE-PIXEL/blob/master/IMAGENES/UTM.png)
 Ilustración 1, Conversión de coordenadas
+
 Después se colocarán las coordenadas donde queremos obtener el valor del pixel dentro del código de Python.
  
 Ilustración 2, codigo de python
