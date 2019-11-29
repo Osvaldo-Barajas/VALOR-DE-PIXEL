@@ -1,5 +1,7 @@
 #OBTENCION DEL VALOR DEL PIXEL DE UNA COORDENADA UTM
 
+FACULTAD DE INGENIERIA CIVIL, PE-ITG
+
 Osvaldo Barajas Amezcua, Estefania Guadalupe Hernandez Aldrete
 
 Universidad de Colima, Campus Coquimatlán 28400, obarajas2@ucol.mx, ehernandez21@ucol.mx
